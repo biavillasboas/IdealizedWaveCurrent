@@ -9,6 +9,11 @@ Surface gravity waves play a major role in the exchange of momentum, heat, energ
 # Data
 This project uses synthetic currents created using the code. 
 
+# WAVEWATCH III configuration
+
+The model used in this paper was compiled with the following switches:
+
+F90 NOGRB NOPA LRB4 SCRIP SCRIPNC NC4 TRKNC DIST MPI PR3 UQ FLX0 LN1 ST4 STAB0 NL1 BT0 DB0 TR0 BS0 IC0 IS0 REF0 IG0 XX0 WNT2 WNX1 RWND CRT1 CRX1 O0 O1 O2 O2a O2b O2c O3 O4 O5 O6 O7
 
 # Funding
 This project was partlially funded by the SWOT program with NASA grant NNX16AH67G.
