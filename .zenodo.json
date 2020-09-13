@@ -1,0 +1,27 @@
+{
+  "title": "Source code for: 'Wave-Current Interactions at Meso and Submesoscales: Insights from Idealized Numerical Simulations'",
+  "creators": [
+    {
+      "name": "Villas Bôas, Ana B.",
+      "affiliation": "Scripps Institution of Oceanography - UC San Diego",
+      "orcid": "0000-0001-6767-6556"
+    }
+  ],
+  "contributors": [
+    {
+      "type": "Sponsor",
+      "name": "National Aeronautics and Space Administration, grant 80NSSC17K0326"
+    },
+    {
+      "type": "Sponsor",
+      "name": "National Aeronautics and Space Administration, grant NNX16AH67G"
+    }
+  ],
+  "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.6075/J0X928V",
+            "relation": "isSupplementTo"
+        }
+    ]
+}
