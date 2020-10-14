@@ -12,6 +12,8 @@ import os
 matplotlib.rcParams['axes.linewidth'] = 0.8
 matplotlib.rcParams['axes.edgecolor']='black'
 matplotlib.rcParams['font.family'] = 'serif'
+# This requires a working LaTeX installation. If you don't have that,
+# you may comment this line
 matplotlib.rcParams['text.usetex']=True
 
 path = "../data/synthetic/standard/gridded/"

@@ -9,6 +9,8 @@ from matplotlib import cm
 matplotlib.rcParams['xtick.labelsize'] = 14
 matplotlib.rcParams['ytick.labelsize'] = 14
 matplotlib.rcParams['font.family'] = 'serif'
+# This requires a working LaTeX installation. If you don't have that,
+# you may comment this line
 matplotlib.rcParams['text.usetex']=True
 
 figpath = '../figs/'

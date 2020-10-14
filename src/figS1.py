@@ -12,6 +12,8 @@ import matplotlib
 matplotlib.rcParams['xtick.labelsize'] = 22
 matplotlib.rcParams['ytick.labelsize'] = 22
 matplotlib.rcParams['font.family'] = 'serif'
+# This requires a working LaTeX installation. If you don't have that,
+# you may comment the lines below and change the plot ylabel
 matplotlib.rcParams['text.usetex']=True
 matplotlib.rcParams['text.latex.preamble'] = [
     r'\usepackage{amsmath}',
