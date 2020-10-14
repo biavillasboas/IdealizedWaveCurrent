@@ -47,7 +47,8 @@ from the project root.
 
 4. If you follow the steps above you should be able to reproduce all figures, by running `python figXX.py` from the `src` directory without having to adjust any paths.
 
-* Note on rendering matplotlib text with LaTeX
+* **Note on rendering matplotlib text with LaTeX**
+
 To ensure that the math fonts in the figures matched the fonts in the paper, the code in this repository requires a [working LaTeX installation](https://matplotlib.org/3.1.0/tutorials/text/usetex.html). If you encounter any problems with this, you may change the line matplotlib.rcParams['text.usetex']=True  to False or just comment it out. 
 
 # How to cite this code
