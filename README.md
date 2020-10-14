@@ -19,13 +19,13 @@ All model output analyzed in this paper is availabe for download here https://do
 
 # Funding
 This project was partlially funded by the [SWOT](https://swot.jpl.nasa.gov/) program with NASA grant NNX16AH67G and 80NSSC20K1136.
-Bia Villas Boas was also partially funded by NASA grant 80NSSC17K0326.
+Bia Villas Bôas was also partially funded by NASA grant 80NSSC17K0326.
 
 # How to use this repository
 
-All figures in Villas Bôas et al. (2020) can be reproduced using the Python scripts from this repository and the [model output](https://doi.org/10.6075/J0X928V6). To do so, follow this steps
+All figures in Villas Bôas et al. (2020) can be reproduced using the Python scripts from this repository and the [model output](https://doi.org/10.6075/J0X928V6). To do so, follow these steps
 
-1. Make a local coopy of this repository by either cloning or downloading it.
+1. Make a local copy of this repository by either cloning or downloading it.
 
 2. Download the [model output](https://doi.org/10.6075/J0X928V6), untar the files, and move all three directories to `data` in the project root. After doing so, your directory three should look like this:
 
