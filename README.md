@@ -18,7 +18,7 @@ Surface gravity waves play a major role in the exchange of momentum, heat, energ
 All model output analyzed in this paper is availabe for download here https://doi.org/10.6075/J0X928V6
 
 # Funding
-This project was partlially funded by the SWOT program with NASA grant NNX16AH67G and 80NSSC20K1136.
+This project was partlially funded by the [SWOT](https://swot.jpl.nasa.gov/) program with NASA grant NNX16AH67G and 80NSSC20K1136.
 Bia Villas Boas was also partially funded by NASA grant 80NSSC17K0326.
 
 # How to use this repository
