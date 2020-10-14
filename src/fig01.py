@@ -16,6 +16,8 @@ from stochastic_flow_tools import *
 matplotlib.rcParams['xtick.labelsize'] = 12
 matplotlib.rcParams['ytick.labelsize'] = 12
 matplotlib.rcParams['font.family'] = 'serif'
+# This requires a working LaTeX installation. If you don't have that,
+# you may comment this line
 matplotlib.rcParams['text.usetex']=True
 
 
