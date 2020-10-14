@@ -30,12 +30,19 @@ All figures in Villas Bôas et al. (2020) can be reproduced using the Python scr
 2. Download the [model output](https://doi.org/10.6075/J0X928V6), untar the files, and move all three directories to `data` in the project root. After doing so, your directory three should look like this:
 
 IdealizedWaveCurrent/
+
 ├── data
+
 │   ├── llc4320
+
 │   ├── model_stats
+
 │   └── synthetic
+
 ├── figs
+
 ├── src
+
 └── tools
 
 3. Make sure that you create an environment with the package versions specified in `environment.yml`. If you are using [Conda](https://docs.conda.io/en/latest/) you can run 
