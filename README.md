@@ -52,6 +52,6 @@ To ensure that the math fonts in the figures matched the fonts in the paper, the
 
 # How to cite this code
 
-If you wish to use the code from this repository, you may cite as 
+If you wish to use the code from this repository, you may cite it as 
 
 Villas Bôas, Ana B. (2020, September 23). Source code for: 'Wave-Current Interactions at Meso and Submesoscales: Insights from Idealized Numerical Simulations'. Zenodo. https://doi.org/10.5281/zenodo.4045183
