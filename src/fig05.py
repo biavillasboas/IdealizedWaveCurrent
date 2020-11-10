@@ -7,6 +7,8 @@ import matplotlib
 
 import os
 
+matplotlib.rcParams['xtick.labelsize'] = 12
+matplotlib.rcParams['ytick.labelsize'] = 12
 matplotlib.rcParams['axes.linewidth'] = 0.8
 matplotlib.rcParams['axes.edgecolor']='black'
 matplotlib.rcParams['font.family'] = 'serif'
@@ -50,8 +52,8 @@ for i, slope in enumerate(slopes):
     ax.set_xticklabels(['0', '0.2', '0.4', '0.6', '0.8', '0.9', '', '1'])
     ax.text(0.1, 0.1, '$q^{-%s}$'%st['%s'%slope], fontsize=14, bbox=bbox_props)
 fig.text(0.085, 0.45,'correlation coefficient', ha='center', va='center',
-        rotation='vertical', fontsize=14)
-fig.text(0.53, 0.0005,r'divergence fraction ($\alpha$)', ha='center', va='center', fontsize=14)
+        rotation='vertical', fontsize=16)
+fig.text(0.53, 0.0005,r'divergence fraction ($\alpha$)', ha='center', va='center', fontsize=16)
 plt.subplots_adjust(wspace=0.03, hspace=0.0)
 figname= "fig05.png" 
 plt.savefig(figpath+figname, dpi=150, bbox_inches='tight')
