@@ -27,7 +27,7 @@ All figures in Villas Bôas et al. (2020) can be reproduced using the Python scr
 
 1. Make a local copy of this repository by either cloning or downloading it.
 
-2. Download the [model output](https://library.ucsd.edu/dc/collection/bb6217292w), untar the files, and move all three directories to `data` in the project root. After doing so, your directory three should look like this:
+2. Download the [model output](https://library.ucsd.edu/dc/collection/bb6217292w), untar the files, and move all three directories to `data` in the project root. After doing so, your directory tree should look like this:
 
 ```
 IdealizedWaveCurrent/
